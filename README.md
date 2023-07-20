@@ -7,7 +7,7 @@
 ## How To Install
 
 ```
-git clone https://github.com/matheesha-pathirana/Minecraft-Server-Status-Checker.git
+git clone https://github.com/matheeshapathirana/Minecraft-Server-Status-Checker.git
 
 cd Minecraft-Server-Status-Checker
 
@@ -18,5 +18,5 @@ python main.py
 ```
 ## Authors
 
-- [@Matheesha](https://www.github.com/matheesha-pathirana)
+- [@Matheesha](https://www.github.com/matheeshapathirana)
 
